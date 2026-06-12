@@ -1,8 +1,13 @@
-streamlit
+streamlit==1.40.2
 pandas
-chromadb
-sentence-transformers
-torch
 numpy
+chromadb==0.5.23
+sentence-transformers==3.3.1
+torch==2.2.2
 scikit-learn
+protobuf==3.20.3
+opentelemetry-proto==1.27.0
+opentelemetry-api==1.27.0
+opentelemetry-sdk==1.27.0
+opentelemetry-exporter-otlp-proto-grpc==1.27.0
 requests
