@@ -1,6 +1,6 @@
 import chromadb
 from sentence_transformers import SentenceTransformer
-chroma_path="data/chroma_db"
+chroma_path="Data/chroma_db"
 collection_name="AR_chunks"
 model=SentenceTransformer('all-MiniLM-L6-v2')
 
